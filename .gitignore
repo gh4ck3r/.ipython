@@ -1,0 +1,6 @@
+/README
+*.pyc
+/profile_*/db
+/profile_*/history.sqlite
+/profile_*/security
+/profile_*/startup/README
