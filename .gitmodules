@@ -1,3 +1,4 @@
 [submodule "profile_default/static/custom"]
 	path = profile_default/static/custom
 	url = https://github.com/gh4ck3r/IPython-notebook-extensions.git
+	branch = 2.x
